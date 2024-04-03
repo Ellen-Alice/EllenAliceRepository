@@ -13,8 +13,8 @@
   3. My own social network
  
 # My favorite part of code ❤❤❤
-'''java
-  if (season.equals("winter")) {
+```java
+if (season.equals("winter")) {
       System.out.println("Wear a warm jacket!");
     }
     else if (season.equals("spring")) {
@@ -26,4 +26,4 @@
     else if (season.equals("autumn")) {
       System.out.println("Wear a rain coat!");
     }
-    '''
+    ```
