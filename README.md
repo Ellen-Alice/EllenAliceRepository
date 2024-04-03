@@ -1,5 +1,5 @@
 # EllenAliceRepository
-# Welcome to my repository
+# Welcome to my repository 🌹
 
 ## My skills
 - Java
