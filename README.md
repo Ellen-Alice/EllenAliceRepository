@@ -26,4 +26,4 @@ if (season.equals("winter")) {
     else if (season.equals("autumn")) {
       System.out.println("Wear a rain coat!");
     }
-    ```
+
