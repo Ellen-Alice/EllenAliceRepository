@@ -1,5 +1,8 @@
 # EllenAliceRepository
 # Welcome to my repository 🌹
+I discovered my passion for application development and software engineering through my recent work experiences, and I am now halfway through a year-long course in the WoTech program, where I am acquiring skills in Java, Python, SQLite, and data analysis.
+
+My background includes over ten years of experience in culture, marketing, and project management, and I am eager to gain practical experience in the IT industry.
 
 ## My skills
 - Java
